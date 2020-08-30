@@ -23,7 +23,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# rails_test_app
-Rails開発テスト用
->>>>>>> f9cbb2ee01bdb33da4a72c08404a9ca4f2e54e07
+
+# Ruby on Rails Tutorial
+## "hello, world!"
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://railstutorial.jp/)
